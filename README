@@ -1,0 +1,8 @@
+An Android application that reads the BarCode of the items and stores the information. The information can be like Name, Type, Expiry date. 
+There is no manual entry of the Expiry date in to the app. 
+Features:
+
+1) Login feature - reads the bar code of the universal membership card and uses that as the login information
+2) Retrieves all the purchasing information that is attached with the card and checks the expiry date for each. 
+3) Gives out an alarm every day starting from 5 days before the expiry date. This setting is left to the user.
+4) More features are being worked upon....... :) (few of the things are stil under construction.. :p)
